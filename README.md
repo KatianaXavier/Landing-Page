@@ -13,7 +13,7 @@
 - estilização com arquivo externo (CSS).
 
 #### Veja o projeto aqui:
-🔗 https://katianaxavier.github.io/myFirstLandingPage/
+🔗 https://katianaxavier.github.io/My-First-Landing-Page/
 
 ### 💫 Tecnologias
 
