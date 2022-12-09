@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 Projeto
 
-<strong>Landing Page</strong> desenvolvida durante o Bootcamp Orange Tech + da DIO. Nela foram trabalhadas:
+<strong>Landing Page</strong> desenvolvida durante meus estudos na DIO. Nela foram trabalhadas:
  
 - header e footer,
 - navegação entre sections,
