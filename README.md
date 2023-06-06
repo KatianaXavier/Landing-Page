@@ -1,5 +1,5 @@
 <h1 align="center">
-  My first Landing Page
+  Landing Page
 </h1>
 
 ### 👩🏻‍💻 Projeto
